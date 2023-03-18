@@ -1,0 +1,4 @@
+".\Objects\STARTUP.obj",
+".\Objects\main.obj" 
+TO ".\Objects\MinSystem" 
+PRINT(".\Listings\MinSystem.m51")
